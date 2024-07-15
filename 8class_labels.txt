@@ -1,0 +1,8 @@
+0 breathing
+1 walking_sawi
+2 jump_sawi
+3 turn_sawi
+4 normp_sawi
+5 normp_sawi2
+6 everyone_sawi
+7 wind_sawi
